@@ -1,6 +1,6 @@
 * {
   box-sizing: border-box;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Chelsea Market', cursive;
   margin: 0;
 }
 
@@ -17,7 +17,7 @@ h1 {
   background-color: teal;
   color: #111;
   display: flex;
-  font-family: 'Griffy', sans-serif;
+  font-family: 'Chelsea Market', cursive;
   font-size: 50px;
   height: 100px;
   justify-content: center;
